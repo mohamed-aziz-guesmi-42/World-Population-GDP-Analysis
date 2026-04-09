@@ -1,2 +1,2 @@
 # Africa-Population-GDP-Analysis
-Analyzing Africa's Population and GDP
+Analyzing Africa's Population and GDP.
